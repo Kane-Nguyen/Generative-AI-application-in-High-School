@@ -14,6 +14,12 @@ This is the test question about the constructed-response test and the multiple-c
 This is the test question about the multiple-choice test and also the answer.
 That is the introduction from the file we also test IQ from the website for students here [Test IQ](https://brght.org/).
 # Steps we test and get the purpose of  
+ 1. We give students a way to approach information to learn 
+ 2. We make an examination and students do an examination
+ 3. We receive the result and marking randomly and the marker doesn't know the approach way of the student
+ 4. We sum it up to the Excel file and write reports.
+
+
 
 
 
