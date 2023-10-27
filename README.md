@@ -2,7 +2,7 @@
 
 This is a list of documents we were using to test the different approach information from 3 group  
 I will introduce each file in the GitHub pot 
-- ## [PROBABILITY RULES](https://github.com/Kane-Nguyen/research/blob/main/PROBABILITY%20RULES.docx)
+- ## [Probability rules](https://github.com/Kane-Nguyen/research/blob/main/PROBABILITY%20RULES.docx)
 we were using this file to help the group have the information approach by Individual Learning and learning from Teacher-Assisted learning can learn from the file.
 - ## [Matrix](https://github.com/Kane-Nguyen/research/blob/main/Matrix.docx)
 This is the making guide about the matrix and the multiple-choice test from the matrix.
