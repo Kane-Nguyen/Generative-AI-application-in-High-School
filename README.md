@@ -1,23 +1,21 @@
 # Paper Title
 
-This is a list of documents we were using to test the different approach information from 3 group  
-I will introduce each file in the GitHub pot 
+This document presents an overview of the various files and materials used during our study. We categorized students into three distinct groups to examine the efficacy of different learning approaches.
 * ## [Probability rules](https://github.com/Kane-Nguyen/research/blob/main/PROBABILITY%20RULES.docx)
-we were using this file to help the group have the information approach by Individual Learning and learning from Teacher-Assisted learning can learn from the file.
+This document was employed as a resource to assist students in understanding content through two primary approaches: Individual Learning and Teacher-Assisted Learning.
 - ## [Matrix](https://github.com/Kane-Nguyen/research/blob/main/Matrix.docx)
-This is the making guide about the matrix and the multiple-choice test from the matrix.
+This document provides a comprehensive guide on matrices and includes a multiple-choice test based on matrix concepts.
 - ## [Test answer key](https://github.com/Kane-Nguyen/research/blob/main/TEST%20ANSWER%20KEY.docx)
-This is the making guide about the constructed-response test
+This guide is specific to the constructed-response test, detailing the correct answers and the criteria for evaluating student responses.
 - ## [Test question](https://github.com/Kane-Nguyen/research/blob/main/TEST%20QUESTIONS.docx)
-This is the test question about the constructed-response test and the multiple-choice test.
+This contains questions for both the constructed-response test and the multiple-choice test, serving as the primary testing material for the students.
 - ## [Test](https://github.com/Kane-Nguyen/research/blob/main/TEST.docx)
-This is the test question about the multiple-choice test and also the answer.
-That is the introduction from the file we also test IQ from the website for students here [Test IQ](https://brght.org/).
-# Steps we test and get the purpose of  
- 1. We give students a way to approach information to learn 
- 2. We make an examination and students do an examination
- 3. We receive the result and marking randomly and the marker doesn't know the approach way of the student
- 4. We sum it up to the Excel file and write reports.
+In addition to the aforementioned resources, students were also directed to an external platform to assess their intellectual quotient, named "[Test IQ](https://brght.org/)".
+# Procedure:
+1. Information Approach: We presented students with a structured method to assimilate and understand the provided information.
+2. Examination Phase: After the learning phase, students were subjected to examinations to evaluate their grasp of the material.
+3. Evaluation: Test results were collected and evaluated. Notably, the evaluation was done anonymously; the evaluators were unaware of the students' learning approaches, ensuring unbiased marking.
+4. Data Compilation: Results were systematically tabulated into an Excel spreadsheet, which subsequently aided in report generation.
 
 
 
