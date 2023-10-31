@@ -1,4 +1,4 @@
-# Paper Title
+# Exploring the Application of Generative AI (ChatGPT) in High School Mathematics Education within the Vietnamese Context
 
 This document presents an overview of the various files and materials used during our study. We categorized students into three distinct groups to examine the efficacy of different learning approaches.
 * ## [Probability rules](https://github.com/Kane-Nguyen/research/blob/main/PROBABILITY%20RULES.docx)
